@@ -33,3 +33,4 @@ Update front service
 ```
 docker service update --image romach007/front:latest front
 ```
+Content on all nginx nodes will change.
